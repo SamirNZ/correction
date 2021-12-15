@@ -1,2 +1,2 @@
 # correction
-projet full stack pour corriger en ligne un corpus 
+projet angular pour corriger en ligne un corpus 
